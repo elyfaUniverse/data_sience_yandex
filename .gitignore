@@ -1,0 +1,22 @@
+﻿# Большие файлы
+*.csv
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# Данные
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.model
+*.npy
+*.npz
+
+# Временные файлы
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
